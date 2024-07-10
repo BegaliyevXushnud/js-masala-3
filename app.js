@@ -99,3 +99,12 @@
 // }
 // let levels = getLevel(n);
 // console.log(levels);
+
+
+
+
+
+// 7-masala
+// let  arr = [ 1,2,3,4,5];
+// let urta = arr[Math.floor((arr.length - 1) / 2)];
+// console.log(urta)
