@@ -63,13 +63,12 @@
 //         }
 //         if (word.length > maxWord.length) {
 //             maxWord = word;
-//         }
-//     }
+//         }}
 //     return { minWord: minWord, maxWord: maxWord };
 // }
 // let result = minMaxWord(str);
 // console.log(result);
-
+//
 
 
 
@@ -108,3 +107,13 @@
 // let  arr = [ 1,2,3,4,5];
 // let urta = arr[Math.floor((arr.length - 1) / 2)];
 // console.log(urta)
+
+
+// 7-masalani  2-usuli
+// const alfa = () => {
+//     let arr = [1,2,3,4,5];
+//     let result = arr.reduce((a,b) => a + b,0);
+//     result /= arr.length;
+//     console.log(result)
+// }
+// alfa()
